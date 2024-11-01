@@ -1,15 +1,14 @@
 ## Hi there 👋
 I am full stack developer
 
-Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,nextjs,nodejs,laravel,dotnet,angular,symfony,spring,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,nextjs,nodejs,laravel,dotnet,angular,symfony,spring,vue,redux)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,dart,html,css,ts,c,cs,php,java,perl,py,materialui,tailwind,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,dart,html,css,ts,c,cs,php,java,perl,py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bitbucket,docker,eclipse,figma,git,github,postman,ubuntu,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bitbucket,docker,eclipse,figma,git,github,postman,ubuntu,threejs,materialui)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,mongodb,npm,powershell,sublime,vercel,vscode,tailwind)](https://skillicons.dev)
 <!--
 **mrmuhannadh/mrmuhannadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
